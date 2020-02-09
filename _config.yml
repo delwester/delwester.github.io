@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Del Wester"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/d3-box-art.jpg"
   bio              : "Data Science Portfolio"
   location         : "Dallas, Texas"
-  email            :
+  email            : "delwester@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
